@@ -14,7 +14,7 @@ This repository contains two PyTorch implementations for graph-based recommendat
 ![pinsagearch](https://github.com/user-attachments/assets/76f02815-a167-4895-b9c3-1d213eeb51ad)
 
 
-The PinSAGE model uses importance-based neighbor sampling and hierarchical convolutions to efficiently learn node embeddings on large graphs.[file:2]
+The PinSAGE model uses importance-based neighbor sampling and hierarchical convolutions to efficiently learn node embeddings on large graphs.
 
 ## Training Dynamics
 
